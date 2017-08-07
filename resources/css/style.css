@@ -1,5 +1,5 @@
 html {
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana;
 }
 
 body {
@@ -9,15 +9,29 @@ body {
 
 #copyright {
     text-align: right;
+    color: gray;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px
+}
+
+h1 {
+    color: white;
 }
 
 .title {
     font-weight: normal;
-    color: white;
     font-size: 50px;
 }
 
 .sec {
     font-size: 42px;
     font-weight: 300
+}
+
+p {
+    font-size: 21px;
+    color: gray
 }
